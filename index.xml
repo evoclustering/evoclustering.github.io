@@ -82,15 +82,6 @@ Requesting new icons #  New icons can be requested by creating an issue here.</d
     
     <item>
       <title></title>
-      <link>https://example.com/docs/clustering/datasets/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/docs/clustering/datasets/</guid>
-      <description>COMING SOON #  </description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://example.com/docs/example/collapsed/3rd-level/4th-level/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -136,15 +127,6 @@ CINVESTAV-Tamaulipas</description>
       
       <guid>https://example.com/docs/home/news/</guid>
       <description>News #  Under construction  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/docs/mvclustering/datasets/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/docs/mvclustering/datasets/</guid>
-      <description>Archive of Reading Group #  </description>
     </item>
     
     <item>
@@ -237,20 +219,59 @@ Lorem markdownum insigne. Olympo signis Delphis!</description>
       
       <guid>https://example.com/menu/</guid>
       <description>  Clustering
-  Algorithm w/ CODE  Datasets  Dataset generators  Libraries    Multi-view Clustering
-  Multi-objective  Single-objective  Traditional approaches  Datasets    Biclustering
+  Algorithms  Datasets  Libraries    Multi-view Clustering
+  MVC Algorithms  MVC Datasets    Biclustering
    News </description>
     </item>
     
     <item>
       <title>Multi-objective approaches</title>
-      <link>https://example.com/docs/mvclustering/multiobjective-approaches/</link>
+      <link>https://example.com/docs/clustering/algorithms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/docs/mvclustering/multiobjective-approaches/</guid>
-      <description>Multi-objective approaches #   hr.dashed { border-top: 1px dashed #bbb; } .grid-container { display: grid; grid-template-columns: 40% 60%; grid-gap: 5px; background-color: transparent; padding: 5px; }   A list of publications about multi-view data clustering approaches based on multi-objective metaheuristics.
- 14 publications 7 publications in journals and 7 in conferences    July, 2021 (last update)
-  An evolutionary many-objective approach to multiview clustering using feature and relational data</description>
+      <guid>https://example.com/docs/clustering/algorithms/</guid>
+      <description>List of some data clustering algorithms with CODE. Also, see the available Libraries where several traditional clustering algorithms have been implemented!   August, 2022 (last update)
+Traditional clustering algorithms #   BLOCK-DBSCAN: Fast clustering for large scale data (2021) | REF | C++ code | CDP: Clustering by fast search and find of density peaks (2014)| REF | Matlab code |  Single-objective algorithms #   SCA2: Novel efficient swarm clustering algorithm (2019) | REF | Python code | E-ED: Elastic differential evolution for automatic data clustering (2019) | REF | C++ code |   Multi-objective algorithms #   MOCK: An evolutionary approach to multiobjective clustering (2007) | REF | C++ code | Delta-MOCK.</description>
+    </item>
+    
+    <item>
+      <title>Multi-objective approaches</title>
+      <link>https://example.com/docs/clustering/datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/clustering/datasets/</guid>
+      <description> List of some clustering software packages.   August, 2022 (last update)
+Datasets #  Under construction   Other dataset repositories #  Under construction   Data generators #   HAWKS: Evolving challenging benchmark sets for cluster analysis (2021) | REF | Python code | JCG: Julia Handl&amp;rsquo;s cluster generators (2019) | REF | C++ code |  </description>
+    </item>
+    
+    <item>
+      <title>Multi-objective approaches</title>
+      <link>https://example.com/docs/clustering/libraries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/clustering/libraries/</guid>
+      <description> List of some clustering software packages.   August, 2022 (last update)
+Clustering software packages #   EvoCluster: An open-source nature-inspired optimization clustering framework (2021) | REF | Python code | LEAC: An efficient library for clustering with evolutionary algorithms (2019) | REF | C++ code | CVIK: A cluster validity index toolbox for automatic data clustering (2022)| REF | Matlab code | PYClustering: Data mining library (2019) | REF | Python code | MLpack: A fast, flexible machine learning library (2018) | REF | C++ code | Website |  </description>
+    </item>
+    
+    <item>
+      <title>Multi-objective approaches</title>
+      <link>https://example.com/docs/mvclustering/mvc-algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/mvclustering/mvc-algorithms/</guid>
+      <description>Multi-view Clustering Approaches #   hr.dashed { border-top: 1px dashed #bbb; } .grid-container { display: grid; grid-template-columns: 40% 60%; grid-gap: 5px; background-color: transparent; padding: 5px; }   List of publications about multi-view clustering approaches including single- and multi-objective approaches.
+ 14 publications 7 publications in journals and 7 in conferences    August, 2022 (last update)
+Muli-objective approaches  An evolutionary many-objective approach to multiview clustering using feature and relational data</description>
+    </item>
+    
+    <item>
+      <title>Multi-objective approaches</title>
+      <link>https://example.com/docs/mvclustering/mvc-datasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/docs/mvclustering/mvc-datasets/</guid>
+      <description> Multi-view Clustering Datasets #  Under construction  </description>
     </item>
     
     <item>

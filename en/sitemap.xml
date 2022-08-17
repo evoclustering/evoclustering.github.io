@@ -152,10 +152,6 @@
   </url>
   
   <url>
-    <loc>https://example.com/docs/clustering/datasets/</loc>
-  </url>
-  
-  <url>
     <loc>https://example.com/docs/example/collapsed/3rd-level/4th-level/</loc>
   </url>
   
@@ -173,10 +169,6 @@
   
   <url>
     <loc>https://example.com/docs/home/news/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/docs/mvclustering/datasets/</loc>
   </url>
   
   <url>
@@ -228,7 +220,23 @@
   </url>
   
   <url>
-    <loc>https://example.com/docs/mvclustering/multiobjective-approaches/</loc>
+    <loc>https://example.com/docs/clustering/algorithms/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/clustering/datasets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/clustering/libraries/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/mvclustering/mvc-algorithms/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/docs/mvclustering/mvc-datasets/</loc>
   </url>
   
   <url>
